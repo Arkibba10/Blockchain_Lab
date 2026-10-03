@@ -73,7 +73,11 @@ A window titled `UAP P2P Network` will open.
 
 Bob will appear automatically in Alice's peer list, and the connection will be established.
 
-![Two peers connected in the P2P app](c:\Users\User\AppData\Roaming\Code\agentSessionData\b062a7e0-9a9b-4a99-b83d-ce6a2522059d\attachments\2d2fc3b2-3c81-4e65-be49-a3e9ca4cb027\Pasted Image.png)
+![Peer Connected](screenshots/Peer%20Connected.png)
+
+![Multiple Peer connected](screenshots/Multiple%20Peer%20connected.png)
+
+![File Shared](screenshots/File%20Shared.png)
 
 > If both peers use the same port, the second one will fail with a port already in use error.
 
