@@ -1,0 +1,20 @@
+# UAP P2P Network - CSE 433 (Blockchain & Distributed Security Lab)
+# University of Asia Pacific
+#
+# NO EXTERNAL PACKAGES ARE NEEDED.
+#
+# This project uses only the Python standard library. Every module it imports
+# (socket, threading, json, struct, os, uuid, tkinter, re, queue) ships with
+# Python itself, so there is nothing to install.
+#
+# This file exists to document that fact, and so that the standard command
+#
+#     pip install -r requirements.txt
+#
+# succeeds and does nothing, rather than failing. That keeps the setup step in
+# the lab instructions working on every machine.
+#
+# Requirements:
+#   - Python 3.9 or newer
+#   - tkinter, which is bundled with the Windows and macOS installers.
+#     On Debian/Ubuntu install it separately:  sudo apt install python3-tk
